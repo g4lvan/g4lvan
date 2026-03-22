@@ -12,17 +12,6 @@
 
 ---
 
-<h2 align="center">
-🔗 Conéctate conmigo
-</h2>
-
-<p align="center">
-    [![GitHub](https://img.shields.io/badge/GitHub-g4lvan-181717?style=for-the-badge&logo=github)](https://github.com/g4lvan)&nbsp;
-    [![Instagram](https://img.shields.io/badge/Instagram-@g4lvan__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/g4lvan_)
-</p>
-
----
-
 ## 🧠 Sobre mí
 
 Empecé en frontend para entender cómo se construyen interfaces, pero mi objetivo es ir más allá y desarrollar aplicaciones completas.
