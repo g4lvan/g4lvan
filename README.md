@@ -48,7 +48,7 @@ No busco solo que las cosas funcionen, sino entender cómo y por qué funcionan.
 
 ## 📌 Proyecto principal
 
-### 📰 Página de noticias (en evolución a Fullstack)
+### 📰 Rediseño moderno del sitio web institucional de la Institución Educativa Municipal Emilio Cifuentes.
 
 Proyecto desarrollado inicialmente como frontend, actualmente en proceso de convertirse en una aplicación completa.
 
@@ -63,9 +63,9 @@ Proyecto desarrollado inicialmente como frontend, actualmente en proceso de conv
 - Renderizado dinámico con JavaScript
 - Consumo de datos (JSON / API)
 - Backend con Node.js y Express
-- CRUD de noticias
+- CMS para la gestión de contenido
 
-👉 (Agrega aquí el link al repositorio o demo)
+🔗 https://github.com/g4lvan/demo_page_colegio.github.io
 
 ---
 
