@@ -17,7 +17,11 @@
 </h2>
 
 <p align="center">
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tu_usuario)
+
+[![GitHub](https://img.shields.io/badge/GitHub-g4lvan-181717?style=for-the-badge&logo=github)](https://github.com/g4lvan)
+
+[![Instagram](https://img.shields.io/badge/Instagram-@g4lvan__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/g4lvan_)
+
 </p>
 
 ---
