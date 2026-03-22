@@ -6,9 +6,9 @@
 
 # 👋 Hola, soy g4lvan
 
-💻 Desarrollador en formación enfocado en Fullstack
-🧠 Actualmente centrado en JavaScript y backend
-🚀 Construyendo proyectos reales mientras evoluciono mis habilidades
+- Desarrollador en formación enfocado en Fullstack
+- Actualmente centrado en JavaScript y backend
+- Construyendo proyectos reales mientras evoluciono mis habilidades
 
 ---
 
