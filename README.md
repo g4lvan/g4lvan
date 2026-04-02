@@ -30,11 +30,11 @@ No busco solo que las cosas funcionen, sino entender cómo y por qué funcionan.
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML-FA8112?style=for-the-badge&logo=HTML5&logoColor=FA8112&labelColor=1B0C0C">
 
-  <img src="https://img.shields.io/badge/CSS-9B15B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/CSS-5C3E94?style=for-the-badge&logo=css&logoColor=8100D1&labelColor=1B0C0C">
 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-FFDE42?style=for-the-badge&logo=javascript&logoColor=FFDE42&labelColor=1B0C0C">
 
 </div>
 
