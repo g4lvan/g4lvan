@@ -1,8 +1,10 @@
----
+<div align="center">
 
-![Banner_g4lvan](/images/Banner_final.jpg "g4lvan")
+<a href="https://github.com/g4lvan" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/g4lvan/g4lvan/blob/main/images/Banner_final.jpg" alt="Banner" />
+</a>
 
----
+</div>
 
 # 👋 Hola, soy g4lvan
 
