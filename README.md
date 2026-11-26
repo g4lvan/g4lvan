@@ -65,7 +65,7 @@ feat: llevar el frontend hacia aplicaciones completas
 fix: la seguridad no es opcional
 ```
     </td>
-    <td align="center" width="180">
+    <td align="right" width="180">
       <img src="https://raw.githubusercontent.com/g4lvan/g4lvan/main/images/brain.png" alt="Brain" width="140" />
     </td>
   </tr>
