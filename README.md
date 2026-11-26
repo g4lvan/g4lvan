@@ -48,7 +48,7 @@ Mi rumbo es la **ciberseguridad**, en particular la **seguridad de aplicaciones*
 ## `>_` Estado del sistema
 <table width="100%">
 <tr>
-<td width="75%" valign="middle">
+<td width="100%" valign="middle">
 <pre>
 $ estado --perfil g4lvan
 [ >> ]  Fundamentos ......... lógica · algoritmos · estructuras de datos
@@ -64,7 +64,7 @@ feat: llevar el frontend hacia aplicaciones completas
 fix: la seguridad no es opcional
 </pre>
 </td>
-<td width="25%" align="center" valign="middle">
+<td width="30%" align="center" valign="middle">
 <img src="./images/brain.png" alt="g4lvan — brain" width="180" />
 </td>
 </tr>
