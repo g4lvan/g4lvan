@@ -62,9 +62,6 @@ $ estado --perfil g4lvan
 [ .. ]  Backend ............. Node.js · Express · APIs · datos
 [ -- ]  Ciberseguridad ...... AppSec · programación segura · vulnerabilidades
 
->> en curso    .. siguiente    -- meta a largo plazo
-
-
 $ git log --oneline
 
 feat: profundizar en JavaScript
