@@ -42,7 +42,7 @@ Mi rumbo es la **ciberseguridad**, en particular la **seguridad de aplicaciones*
 
 ## `>_` Estado del sistema
 
-<img src="./images/brain.png" alt="g4lvan — brain" width="100%" />
+<img src="./images/brain.png" alt="g4lvan — brain" width="30%" />
 
 ```text
 $ estado --perfil g4lvan
