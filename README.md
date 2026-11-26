@@ -42,6 +42,9 @@ Mi rumbo es la **ciberseguridad**, en particular la **seguridad de aplicaciones*
 
 ## `>_` Estado del sistema
 
+<table>
+  <tr>
+    <td>
 ```text
 $ estado --perfil g4lvan
 
@@ -61,6 +64,12 @@ feat: preparar la transición a backend
 feat: llevar el frontend hacia aplicaciones completas
 fix: la seguridad no es opcional
 ```
+    </td>
+    <td align="center" width="180">
+      <img src="./images/brain.png" alt="Brain" width="140" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -73,8 +82,6 @@ fix: la seguridad no es opcional
 <br/>
 
 <sub><b>Base actual</b> · JavaScript · HTML · CSS · Git · GitHub · VS Code</sub>
-
-<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,linux&theme=dark" alt="En exploración" />
 
