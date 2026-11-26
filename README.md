@@ -46,7 +46,7 @@ Mi rumbo es la **ciberseguridad**, en particular la **seguridad de aplicaciones*
 <br/>
 
 ## `>_` Estado del sistema
-<table>
+<table width="100%">
 <tr>
 <td width="75%" valign="middle">
 <pre>
