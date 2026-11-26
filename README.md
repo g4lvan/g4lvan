@@ -47,7 +47,9 @@ Mi rumbo es la **ciberseguridad**, en particular la **seguridad de aplicaciones*
 
 ## `>_` Estado del sistema
 
-<img src="./images/brain.png" alt="g4lvan — brain" width="30%" align="right"/>
+<table>
+  <tr>
+    <td valign="middle" width="70%">
 
 ```text
 $ estado --perfil g4lvan
@@ -68,6 +70,14 @@ feat: preparar la transición a backend
 feat: llevar el frontend hacia aplicaciones completas
 fix: la seguridad no es opcional
 ```
+
+    </td>
+    <td align="center" valign="middle" width="30%">
+      <img src="./images/brain.png" alt="g4lvan — brain" width="180" />
+    </td>
+
+  </tr>
+</table>
 
 <br/>
 
