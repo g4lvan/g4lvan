@@ -64,7 +64,7 @@ feat: llevar el frontend hacia aplicaciones completas
 fix: la seguridad no es opcional
 </pre>
 </td>
-<td width="30%" align="center" valign="middle">
+<td width="25%" align="center" valign="middle">
 <img src="./images/brain.png" alt="g4lvan — brain" width="180" />
 </td>
 </tr>
