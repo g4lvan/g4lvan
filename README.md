@@ -46,49 +46,38 @@ Mi rumbo es la **ciberseguridad**, en particular la **seguridad de aplicaciones*
 <br/>
 
 ## `>_` Estado del sistema
-<table width="100%">
+
+<table width="1050">
+<colgroup>
+  <col width="735">
+  <col width="315">
+</colgroup>
 <tr>
-<td width="100%" valign="middle">
+<td width="70%" valign="middle">
 <pre>
 $ estado --perfil g4lvan
+
 [ >> ]  Fundamentos ......... lógica · algoritmos · estructuras de datos
 [ >> ]  Desarrollo web ...... JavaScript · HTML · CSS
 [ .. ]  Backend ............. Node.js · Express · APIs · datos
 [ -- ]  Ciberseguridad ...... AppSec · programación segura · vulnerabilidades
+
 >> en curso    .. siguiente    -- meta a largo plazo
 
+
 $ git log --oneline
+
 feat: profundizar en JavaScript
 feat: preparar la transición a backend
 feat: llevar el frontend hacia aplicaciones completas
 fix: la seguridad no es opcional
 </pre>
 </td>
-<td width="25%" align="center" valign="middle">
-<img src="./images/brain.png" alt="g4lvan — brain" width="180" />
+<td width="30%" align="center" valign="middle">
+<img src="./images/brain.png" alt="g4lvan — brain" width="220" />
 </td>
 </tr>
 </table>
-
-<br/>
-
-## `>_` Pila tecnológica
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode&theme=dark" alt="Base actual" />
-
-<br/>
-
-<sub><b>Base actual</b> · JavaScript · HTML · CSS · Git · GitHub · VS Code</sub>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,linux&theme=dark" alt="En exploración" />
-
-<br/>
-
-<sub><b>En exploración</b> · Node.js · Express · Linux</sub>
-
-</div>
 
 <br/>
 
