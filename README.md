@@ -49,9 +49,9 @@ Mi rumbo es la **ciberseguridad**, en particular la **seguridad de aplicaciones*
 
 <table>
   <tr>
-    <td valign="middle" width="70%">
+    <td width="75%" valign="middle">
 
-```text
+<pre>
 $ estado --perfil g4lvan
 
 [ >> ]  Fundamentos ......... lógica · algoritmos · estructuras de datos
@@ -60,19 +60,18 @@ $ estado --perfil g4lvan
 [ -- ]  Ciberseguridad ...... AppSec · programación segura · vulnerabilidades
 
 >> en curso    .. siguiente    -- meta a largo plazo
-```
 
-```text
+
 $ git log --oneline
 
 feat: profundizar en JavaScript
 feat: preparar la transición a backend
 feat: llevar el frontend hacia aplicaciones completas
 fix: la seguridad no es opcional
-```
+</pre>
 
     </td>
-    <td align="center" valign="middle" width="30%">
+    <td width="25%" align="center" valign="middle">
       <img src="./images/brain.png" alt="g4lvan — brain" width="180" />
     </td>
 
