@@ -27,7 +27,12 @@ const g4lvan = {
   pais: "Colombia",
   enfoque: ["Backend", "Programación segura"],
   rumbo: "Seguridad de aplicaciones (AppSec)",
-  aprendiendo: ["JavaScript", "HTML y CSS", "Algoritmos", "Arquitectura backend"],
+  aprendiendo: [
+    "JavaScript",
+    "HTML y CSS",
+    "Algoritmos",
+    "Arquitectura backend",
+  ],
   principio: "Verificar antes de confiar.",
 };
 ```
@@ -42,7 +47,7 @@ Mi rumbo es la **ciberseguridad**, en particular la **seguridad de aplicaciones*
 
 ## `>_` Estado del sistema
 
-<img src="./images/brain.png" alt="g4lvan — brain" width="30%" />
+<img src="./images/brain.png" alt="g4lvan — brain" width="30%" align="right"/>
 
 ```text
 $ estado --perfil g4lvan
@@ -90,9 +95,9 @@ fix: la seguridad no es opcional
 
 <div align="center">
 
-| 🧱 **Backend e ingeniería de software** | 🔐 **Ciberseguridad / AppSec** | 🐧 **Linux y herramientas** |
-| :---: | :---: | :---: |
-| APIs, datos y arquitectura | Programación segura y análisis de vulnerabilidades | Entender las herramientas, no solo ejecutarlas |
+| 🧱 **Backend e ingeniería de software** |           🔐 **Ciberseguridad / AppSec**           |          🐧 **Linux y herramientas**           |
+| :-------------------------------------: | :------------------------------------------------: | :--------------------------------------------: |
+|       APIs, datos y arquitectura        | Programación segura y análisis de vulnerabilidades | Entender las herramientas, no solo ejecutarlas |
 
 </div>
 
